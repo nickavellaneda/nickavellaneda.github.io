@@ -1,0 +1,23 @@
+body {
+	background-image: url("../images/background1.jpg");
+    font-family: Algerian,Arial,Helvetica,sans-serif;
+	color: White;
+    font-size: 12px; 
+    line-height: 1.7em;
+    margin: 0;
+    padding: 0;
+}
+p {font-family: Arial
+	
+}
+a:hover{
+	color: purple;
+}
+a{
+	color: red;
+}
+
+h2{
+	font-family: Arial;
+	font-size: 8
+}
